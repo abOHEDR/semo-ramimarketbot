@@ -101,35 +101,35 @@ bot('editmessagetext',[
  'reply_markup'=>json_encode([
 'inline_keyboard'=>[
         [
-            ['text' => "رصيد 5$", 'callback_data' => "r"], ['text' =>"نقاط 2500", 'callback_data' => "k"],['text'=>"تحويل صيغ",'callback_data'=>"a"]
+            ['text' => "رصيد 5$", 'callback_data' => "r"], ['text' =>"نقاط 1", 'callback_data' => "k"],['text'=>"تحويل صيغ",'callback_data'=>"a"]
 ],
 [
-            ['text' => "رصيد 2$", 'callback_data' => "r"], ['text' =>"نقاط 2100", 'callback_data' => "k"],['text'=>"لعبه XO",'callback_data'=>"a"]
+            ['text' => "رصيد 2$", 'callback_data' => "r"], ['text' =>"نقاط 1", 'callback_data' => "k"],['text'=>"لعبه XO",'callback_data'=>"a"]
 ],
 [
-            ['text' => "رصيد 3$", 'callback_data' => "r"], ['text' =>"نقاط 2600", 'callback_data' => "k"],['text'=>"لعبه مريم",'callback_data'=>"a"]
+            ['text' => "رصيد 3$", 'callback_data' => "r"], ['text' =>"نقاط 1", 'callback_data' => "k"],['text'=>"لعبه مريم",'callback_data'=>"a"]
 ],
 [
-             ['text' => "رصيد 1$", 'callback_data' => "r"], ['text' =>"نقاط 2050", 'callback_data' => "k"],['text'=>"نسبه الحب",'callback_data'=>"a"]
+             ['text' => "رصيد 1$", 'callback_data' => "r"], ['text' =>"نقاط 1", 'callback_data' => "k"],['text'=>"نسبه الحب",'callback_data'=>"a"]
 ],
 [
-            ['text' => "رصيد 5$", 'callback_data' => "r"], ['text' =>"نقاط 2900", 'callback_data' => "k"],['text'=>"تواصل",'callback_data'=>"a"]
+            ['text' => "رصيد 5$", 'callback_data' => "r"], ['text' =>"نقاط 1", 'callback_data' => "k"],['text'=>"تواصل",'callback_data'=>"a"]
 ],
 [
-            ['text' => "رصيد 4$", 'callback_data' => "r"], ['text' =>"نقاط 3000", 'callback_data' => "k"],['text'=>"صنع تواصل",'callback_data'=>"a"]
+            ['text' => "رصيد 4$", 'callback_data' => "r"], ['text' =>"نقاط 1", 'callback_data' => "k"],['text'=>"صنع تواصل",'callback_data'=>"a"]
 ],
 
 [
-           ['text' => "رصيد 5$", 'callback_data' => "r"], ['text' =>"نقاط 3000", 'callback_data' => "k"],['text'=>"سايت",'callback_data'=>"a"]
+           ['text' => "رصيد 5$", 'callback_data' => "r"], ['text' =>"نقاط 1", 'callback_data' => "k"],['text'=>"سايت",'callback_data'=>"a"]
 ],
 [
-            ['text' => "رصيد 4$", 'callback_data' => "r"], ['text' =>"نقاط 4000", 'callback_data' => "k"],['text'=>"صنع سايت",'callback_data'=>"a"]],
+            ['text' => "رصيد 4$", 'callback_data' => "r"], ['text' =>"نقاط 1", 'callback_data' => "k"],['text'=>"صنع سايت",'callback_data'=>"a"]],
 
 [
-            ['text' => "رصيد 4$", 'callback_data' => "r"], ['text' =>"نقاط 2500", 'callback_data' => "k"],['text'=>"حمايه",'callback_data'=>"a"]
+            ['text' => "رصيد 4$", 'callback_data' => "r"], ['text' =>"نقاط 1", 'callback_data' => "k"],['text'=>"حمايه",'callback_data'=>"a"]
 ],
 [
-            ['text' => "رصيد 15$", 'callback_data' => "r"], ['text' =>"نقاط 8000", 'callback_data' => "k"],['text'=>"Mr Bots",'callback_data'=>"a"]
+            ['text' => "رصيد 15$", 'callback_data' => "r"], ['text' =>"نقاط 1", 'callback_data' => "k"],['text'=>"Mr Bots",'callback_data'=>"a"]
 ],
 [
             ['text' => "رجوع الى القائمه الرئيسيه 🔙", 'callback_data' => "ss"]
@@ -152,35 +152,35 @@ bot('editmessagetext',[
  'reply_markup'=>json_encode([
 'inline_keyboard'=>[
         [
-            ['text' => "رصيد 2$", 'callback_data' => "r"], ['text' =>"نقاط 2500", 'callback_data' => "k"],['text'=>"تحويل صيغ",'callback_data'=>"aa"]
+            ['text' => "رصيد 2$", 'callback_data' => "r"], ['text' =>"نقاط 1", 'callback_data' => "k"],['text'=>"تحويل صيغ",'callback_data'=>"aa"]
 ],
 [
-            ['text' => "رصيد 2$", 'callback_data' => "r"], ['text' =>"نقاط 2100", 'callback_data' => "k"],['text'=>"لعبه XO",'callback_data'=>"aa"]
+            ['text' => "رصيد 2$", 'callback_data' => "r"], ['text' =>"نقاط 1", 'callback_data' => "k"],['text'=>"لعبه XO",'callback_data'=>"aa"]
 ],
 [
-            ['text' => "رصيد 2$", 'callback_data' => "r"], ['text' =>"نقاط 2600", 'callback_data' => "k"],['text'=>"لعبه مريم",'callback_data'=>"aa"]
+            ['text' => "رصيد 2$", 'callback_data' => "r"], ['text' =>"نقاط 1", 'callback_data' => "k"],['text'=>"لعبه مريم",'callback_data'=>"aa"]
 ],
 [
-             ['text' => "رصيد 2$", 'callback_data' => "r"], ['text' =>"نقاط 2050", 'callback_data' => "k"],['text'=>"نسبه الحب",'callback_data'=>"aa"]
+             ['text' => "رصيد 2$", 'callback_data' => "r"], ['text' =>"نقاط 1", 'callback_data' => "k"],['text'=>"نسبه الحب",'callback_data'=>"aa"]
 ],
 [
-            ['text' => "رصيد 2$", 'callback_data' => "r"], ['text' =>"نقاط 2900", 'callback_data' => "k"],['text'=>"تواصل",'callback_data'=>"aa"]
+            ['text' => "رصيد 2$", 'callback_data' => "r"], ['text' =>"نقاط 1", 'callback_data' => "k"],['text'=>"تواصل",'callback_data'=>"aa"]
 ],
 [
-            ['text' => "رصيد 2$", 'callback_data' => "r"], ['text' =>"نقاط 3000", 'callback_data' => "k"],['text'=>"صنع تواصل",'callback_data'=>"aa"]
+            ['text' => "رصيد 2$", 'callback_data' => "r"], ['text' =>"نقاط 1", 'callback_data' => "k"],['text'=>"صنع تواصل",'callback_data'=>"aa"]
 ],
 
 [
-           ['text' => "رصيد 2$", 'callback_data' => "r"], ['text' =>"نقاط 3000", 'callback_data' => "k"],['text'=>"سايت",'callback_data'=>"aa"]
+           ['text' => "رصيد 2$", 'callback_data' => "r"], ['text' =>"نقاط 1", 'callback_data' => "k"],['text'=>"سايت",'callback_data'=>"aa"]
 ],
 [
-            ['text' => "رصيد 2$", 'callback_data' => "r"], ['text' =>"نقاط 4000", 'callback_data' => "k"],['text'=>"صنع سايت",'callback_data'=>"aa"]],
+            ['text' => "رصيد 2$", 'callback_data' => "r"], ['text' =>"نقاط 1", 'callback_data' => "k"],['text'=>"صنع سايت",'callback_data'=>"aa"]],
 
 [
-            ['text' => "رصيد 2$", 'callback_data' => "r"], ['text' =>"نقاط 2500", 'callback_data' => "k"],['text'=>"حمايه",'callback_data'=>"aa"]
+            ['text' => "رصيد 2$", 'callback_data' => "r"], ['text' =>"نقاط 1", 'callback_data' => "k"],['text'=>"حمايه",'callback_data'=>"aa"]
 ],
 [
-            ['text' => "رصيد 5$", 'callback_data' => "r"], ['text' =>"نقاط 8000", 'callback_data' => "k"],['text'=>"Mr Bots",'callback_data'=>"aa"]
+            ['text' => "رصيد 5$", 'callback_data' => "r"], ['text' =>"نقاط 1", 'callback_data' => "k"],['text'=>"Mr Bots",'callback_data'=>"aa"]
 ],
 [
             ['text' => "رجوع الى القائمه الرئيسيه 🔙", 'callback_data' => "ss"]
@@ -201,16 +201,16 @@ bot('editmessagetext',[
 'reply_markup' => json_encode([
                 'inline_keyboard' => [
  [
-            ['text' => "رصيد 5$", 'callback_data' => "r"], ['text' => "نقاط 3000", 'callback_data' => "k"], ['text' => "امريكي مأكد️", 'callback_data' => "aaa"]
+            ['text' => "رصيد 5$", 'callback_data' => "r"], ['text' => "نقاط 1", 'callback_data' => "k"], ['text' => "امريكي مأكد️", 'callback_data' => "aaa"]
 ],
 [
-            ['text' => "رصيد 2$", 'callback_data' => "r"], ['text' => "نقاط 1500", 'callback_data' => "k"], ['text' =>"فيس هندي", 'callback_data' => "aaa"]
+            ['text' => "رصيد 2$", 'callback_data' => "r"], ['text' => "نقاط 1", 'callback_data' => "k"], ['text' =>"فيس هندي", 'callback_data' => "aaa"]
 ],
 [
-            ['text' => "رصيد 3$", 'callback_data' => "r"], ['text' => "نقاط 2000", 'callback_data' => "k"], ['text' => "فيس روسي", 'callback_data' => "aaa"]
+            ['text' => "رصيد 3$", 'callback_data' => "r"], ['text' => "نقاط 1", 'callback_data' => "k"], ['text' => "فيس روسي", 'callback_data' => "aaa"]
 ],
 [
-            ['text' => "رصيد 0$", 'callback_data' => "0"], ['text' => "نقاط 1500", 'callback_data' => "k"], ['text' => "فيس عادي", 'callback_data' => "aaa"]
+            ['text' => "رصيد 0$", 'callback_data' => "0"], ['text' => "نقاط 1", 'callback_data' => "k"], ['text' => "فيس عادي", 'callback_data' => "aaa"]
 ],
 [
             ['text' => "رجوع الى القائمه الرئيسيه 🔙", 'callback_data' => "ss"]
@@ -231,17 +231,17 @@ bot('editmessagetext',[
  'reply_markup'=>json_encode([
 'inline_keyboard'=>[
 [
-              ['text' =>"نقاط 2500", 'callback_data' => "k"],['text'=>"سيرفر C9",'callback_data'=>"aaaa"]
+              ['text' =>"نقاط 1", 'callback_data' => "k"],['text'=>"سيرفر C9",'callback_data'=>"aaaa"]
 ],
 [
-              ['text' =>"نقاط 3600", 'callback_data' => "k"],['text'=>"ورك C9 شهري",'callback_data'=>"aaaa"]
+              ['text' =>"نقاط 1", 'callback_data' => "k"],['text'=>"ورك C9 شهري",'callback_data'=>"aaaa"]
 ],
 [
-              ['text' =>"نقاط 4100", 'callback_data' => "k"],['text'=>"ورك C9 سنوي",'callback_data'=>"aaaa"]
+              ['text' =>"نقاط 1", 'callback_data' => "k"],['text'=>"ورك C9 سنوي",'callback_data'=>"aaaa"]
 
 ],
 [
-              ['text' =>"نقاط 1500", 'callback_data' => "k"],['text'=>"Webhost",'callback_data'=>"aaaa"]
+              ['text' =>"نقاط 1", 'callback_data' => "k"],['text'=>"Webhost",'callback_data'=>"aaaa"]
 
 ],
 [
@@ -263,18 +263,18 @@ bot('editmessagetext',[
  'reply_markup'=>json_encode([
 'inline_keyboard'=>[
 [
-                  ['text' =>"نقاط 2000", 'callback_data' => "k"],['text'=>"رقم امريكي",'callback_data'=>"aaaaa"]
+                  ['text' =>"نقاط 1", 'callback_data' => "k"],['text'=>"رقم امريكي",'callback_data'=>"aaaaa"]
 ],
 [
-                  ['text' =>"رصيد 10$", 'callback_data' => "r"],['text'=>"رقم اندونيسي",'callback_data'=>"aaaaa"]
+                  ['text' =>"رصيد 1", 'callback_data' => "r"],['text'=>"رقم اندونيسي",'callback_data'=>"aaaaa"]
 
 ],
 [
-                  ['text' =>"رصيد 5$", 'callback_data' => "r"],['text'=>"رقم ايراني",'callback_data'=>"aaaaa"]
+                  ['text' =>"رصيد 1", 'callback_data' => "r"],['text'=>"رقم ايراني",'callback_data'=>"aaaaa"]
 
 ],
 [
-                  ['text' =>"رصيد 3$", 'callback_data' => "r"],['text'=>"رقم باكستاني",'callback_data'=>"aaaaa"]
+                  ['text' =>"رصيد 1$", 'callback_data' => "r"],['text'=>"رقم باكستاني",'callback_data'=>"aaaaa"]
 ],
 [
           ['text'=>"رجوع الى الصفحه الرئيسيه 🔙", 'callback_data' => "ss"]
@@ -295,14 +295,14 @@ bot('editmessagetext',[
  'reply_markup'=>json_encode([
 'inline_keyboard'=>[
 [
-                  ['text' =>"نقاط 2000", 'callback_data' => "k"],['text'=>"فيزا مجانيه",'callback_data'=>"aaaaaa"]
+                  ['text' =>"نقاط 1", 'callback_data' => "k"],['text'=>"فيزا مجانيه",'callback_data'=>"aaaaaa"]
 ],
 [
-                  ['text' =>"نقاط 1500", 'callback_data' => "k"],['text'=>"ماستر مجانيه",'callback_data'=>"aaaaaa"]
+                  ['text' =>"نقاط 1", 'callback_data' => "k"],['text'=>"ماستر مجانيه",'callback_data'=>"aaaaaa"]
 
 ],
 [
-                  ['text' =>"نقاط 3000", 'callback_data' => "k"],['text'=>"فيزا باسمك",'callback_data'=>"aaaaaa"]
+                  ['text' =>"نقاط 1", 'callback_data' => "k"],['text'=>"فيزا باسمك",'callback_data'=>"aaaaaa"]
 
 ],
 [
@@ -482,7 +482,7 @@ if(!in_array($chat_id, explode(',', $json[$ex_text[1]]['ids']))) {
         file_put_contents('data.json', json_encode($json));
         bot('sendMessage',[
           'chat_id'=>$ex_text[1],
-          'text'=>"قام $user بالدخول عبره الرابط نقاطك الان :". $json[$ex_text[1]]['collect']
+          'text'=>"قام $user بالدخول عبره الرابط نقاطك الان :". $json[$ex_text[99999999999]]['collect']
           ]);
     }
     
